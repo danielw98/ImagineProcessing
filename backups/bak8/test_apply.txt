@@ -1,0 +1,15 @@
+LOAD p3.ppm
+SAVE teste/apply/p3.ppm
+LOAD p3.ppm
+APPLY EDGE
+SAVE teste/apply/p3_edge.ppm
+LOAD p3.ppm
+APPLY SHARPEN
+SAVE teste/apply/p3_sharpen.ppm
+LOAD p3.ppm
+APPLY BLUR
+SAVE teste/apply/p3_blur.ppm
+LOAD p3.ppm
+APPLY GAUSSIAN_BLUR
+SAVE teste/apply/p3_gaussian_blur.ppm
+EXIT

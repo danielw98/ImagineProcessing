@@ -1,0 +1,9 @@
+CROP
+LOAD images/p3.ppm
+SAVE tests/crop/p3.ppm
+CROP
+SAVE tests/crop/p3_full.ppm
+SELECT 0 0 250 500
+CROP
+SAVE tests/crop/p3_half.ppm
+EXIT

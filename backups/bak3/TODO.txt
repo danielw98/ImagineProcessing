@@ -1,0 +1,10 @@
+Implementare Image* Image_Copy(Image* image, uint32_t x, uint32_t y) - done, are alt antet
+Facut select all - done 
+facut select - done
+facut crop
+vazut cazurile la toate
+vazut ce trebuie sa facem cu matricea la apply-uri
+eliberat memorie pe unde trebuie - de vazut cu valgrind daca sunt bube
+parsat argumentele in linia de comanda la comenzile ramase - usor, cateva minute total
+de citit despre histograme din cartea aia bmp tiff image processing - max 1h cu implementare sper 1h30
+rotatiile - semi usoare - aplicat matrice de rotatie pe intreaga imagine - max 1h

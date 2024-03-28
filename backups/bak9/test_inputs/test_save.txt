@@ -1,0 +1,9 @@
+LOAD images/p2.pgm
+SAVE tests/save/p2.pgm ascii
+LOAD images/p3.ppm
+SAVE tests/save/p3.ppm ascii
+LOAD images/p5.pgm
+SAVE tests/save/p5.pgm
+LOAD images/p6.ppm
+SAVE tests/save/p6.ppm
+EXIT

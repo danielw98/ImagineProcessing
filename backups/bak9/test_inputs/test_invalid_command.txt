@@ -1,0 +1,3 @@
+COMANDA_INVALIDA
+LOAD images/p2.pgm
+EXIT

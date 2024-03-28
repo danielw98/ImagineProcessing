@@ -1,0 +1,3 @@
+EXIT
+LOAD images/p2.pgm
+EXIT

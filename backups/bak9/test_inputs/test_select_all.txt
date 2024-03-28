@@ -1,0 +1,4 @@
+SELECT ALL
+LOAD images/p3.ppm
+SELECT ALL
+EXIT

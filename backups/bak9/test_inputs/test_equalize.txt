@@ -1,0 +1,8 @@
+EQUALIZE
+LOAD images/p3.ppm
+EQUALIZE
+LOAD images/p2.pgm
+SAVE tests/equalize/p2.pgm
+EQUALIZE
+SAVE tests/equalize/p2_equalized.pgm
+EXIT

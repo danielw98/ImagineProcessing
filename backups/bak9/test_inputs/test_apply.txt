@@ -1,0 +1,22 @@
+APPLY EDGE
+LOAD images/p2.pgm
+APPLY EDGE
+LOAD images/p3.ppm
+SAVE tests/apply/p3.ppm
+LOAD images/p3.ppm
+APPLY EDGE
+CROP
+SAVE tests/apply/p3_edge.ppm
+LOAD images/p3.ppm
+APPLY SHARPEN
+CROP
+SAVE tests/apply/p3_sharpen.ppm
+LOAD images/p3.ppm
+APPLY BLUR
+CROP
+SAVE tests/apply/p3_blur.ppm
+LOAD images/p3.ppm
+APPLY GAUSSIAN_BLUR
+CROP
+SAVE tests/apply/p3_gaussian_blur.ppm
+EXIT

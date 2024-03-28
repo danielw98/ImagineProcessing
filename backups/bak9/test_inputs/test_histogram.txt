@@ -1,0 +1,6 @@
+HISTOGRAM 10 4
+LOAD images/p3.ppm
+HISTOGRAM 20 8
+LOAD images/lena.pgm
+HISTOGRAM 10 8
+EXIT

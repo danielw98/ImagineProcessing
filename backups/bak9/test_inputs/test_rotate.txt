@@ -1,0 +1,13 @@
+ROTATE 90
+LOAD images/p2.pgm
+SAVE tests/rotate/p2.pgm
+LOAD images/p2.pgm
+ROTATE 90
+SAVE tests/rotate/p2_90_right.pgm
+LOAD images/p2.pgm
+ROTATE -180
+SAVE tests/rotate/p2_180_left.pgm
+ROTATE 100
+SELECT 0 0 10 20
+ROTATE 180
+EXIT
